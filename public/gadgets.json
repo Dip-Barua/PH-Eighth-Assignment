@@ -1,0 +1,258 @@
+[
+    {
+      "product_id": "P001",
+      "product_title": "Apple iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/wSz77bd/P001.png",
+      "category": "Smartphones",
+      "price": 1299,
+      "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+      "specification": [
+        "6.7-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+        "LiDAR Scanner",
+        "Up to 2TB storage"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/6HcKks1/P002.jpg",
+      "category": "Smartphones",
+      "price": 1199,
+      "description": "The Samsung Galaxy S23 Ultra combines cutting-edge technology with a sleek design.",
+      "specification": [
+        "6.8-inch QHD+ Dynamic AMOLED display",
+        "Snapdragon 8 Gen 2",
+        "200MP quad-camera system",
+        "5000mAh battery",
+        "1TB storage"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://i.ibb.co.com/HGzLjYw/P007.webp",
+      "category": "Smartphones",
+      "price": 899,
+      "description": "The Google Pixel 8 Pro offers advanced AI features and a top-notch camera.",
+      "specification": [
+        "6.7-inch OLED display",
+        "Google Tensor G3",
+        "Triple rear camera system",
+        "5000mAh battery",
+        "5G connectivity"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P004",
+      "product_title": "Asus ROG Phone 6",
+      "product_image": "https://i.ibb.co.com/8KT2gS1/P0012.webp",
+      "category": "Smartphones",
+      "price": 899,
+      "description": "Gaming-focused smartphone with high-performance specs.",
+      "specification": [
+        "6.78-inch AMOLED display",
+        "Snapdragon 8+ Gen 1",
+        "6000mAh battery",
+        "165Hz refresh rate",
+        "Up to 18GB RAM"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P005",
+      "product_title": "OnePlus 11",
+      "product_image": "https://i.ibb.co.com/6HcKks1/P002.jpg",
+      "category": "Smartphones",
+      "price": 729,
+      "description": "Flagship-level performance with OnePlus's signature smooth experience.",
+      "specification": [
+        "6.7-inch 120Hz Fluid AMOLED display",
+        "Snapdragon 8 Gen 2",
+        "50MP triple-camera system",
+        "5000mAh battery",
+        "5G support"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Sony Xperia 5 V",
+      "product_image": "https://i.ibb.co/WDtSDR7/P0012.jpg",
+      "category": "Smartphones",
+      "price": 799,
+      "description": "Compact powerhouse with Sony's latest imaging technology.",
+      "specification": [
+        "6.1-inch FHD+ OLED display",
+        "Snapdragon 8 Gen 2",
+        "Dual-camera system",
+        "5000mAh battery",
+        "IP65/IP68 water resistance"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "P007",
+      "product_title": "MacBook Pro 14-inch",
+      "product_image": "https://i.ibb.co.com/z6NDSBD/P0014.webp",
+      "category": "Laptops",
+      "price": 1999,
+      "description": "Powerful performance meets portability in the MacBook Pro 14-inch.",
+      "specification": [
+        "14-inch Liquid Retina XDR display",
+        "Apple M2 Pro chip",
+        "16GB RAM",
+        "512GB SSD storage",
+        "Up to 17 hours battery life"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Dell Inspiron 15",
+      "product_image": "https://i.ibb.co.com/zGx1Ftt/P0010.webp",
+      "category": "Laptops",
+      "price": 649,
+      "description": "Affordable yet powerful laptop suitable for daily tasks and productivity.",
+      "specification": [
+        "15.6-inch FHD display",
+        "Intel Core i5 12th Gen",
+        "8GB RAM",
+        "256GB SSD storage",
+        "Up to 10 hours battery life"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "P009",
+      "product_title": "Sony WH-1000XM5 Headphones",
+      "product_image": "https://i.ibb.co.com/N7RYJvN/P005.jpg",
+      "category": "Accessories",
+      "price": 349,
+      "description": "Industry-leading noise-canceling headphones with superior sound quality.",
+      "specification": [
+        "30-hour battery life",
+        "Touch sensor controls",
+        "Wireless Bluetooth",
+        "High-resolution audio",
+        "Adaptive sound control"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P010",
+      "product_title": "Apple AirPods Pro 2nd Gen",
+      "product_image": "https://i.ibb.co.com/sV8Q5bZ/P0013.png",
+      "category": "Accessories",
+      "price": 249,
+      "description": "Apple's best noise-canceling wireless earbuds with improved sound.",
+      "specification": [
+        "Active noise cancellation",
+        "Transparency mode",
+        "Spatial audio with dynamic head tracking",
+        "Up to 6 hours listening time",
+        "MagSafe charging case"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P011",
+      "product_title": "iPad Pro 12.9",
+      "product_image": "https://i.ibb.co.com/1JnBkpq/P0015.png",
+      "category": "Tablets",
+      "price": 1099,
+      "description": "The ultimate iPad for professionals with exceptional power and display.",
+      "specification": [
+        "12.9-inch Liquid Retina XDR display",
+        "Apple M2 chip",
+        "5G capability",
+        "Up to 2TB storage",
+        "Support for Apple Pencil 2"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P012",
+      "product_title": "Samsung Galaxy Tab S9",
+      "product_image": "https://i.ibb.co.com/1JnBkpq/P0015.png",
+      "category": "Tablets",
+      "price": 799,
+      "description": "A high-end tablet with exceptional display and performance for multitasking.",
+      "specification": [
+        "11-inch Dynamic AMOLED 2X display",
+        "Qualcomm Snapdragon 8 Gen 1",
+        "8GB RAM",
+        "128GB storage, expandable up to 1TB",
+        "5G support"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P013",
+      "product_title": "Microsoft Surface Pro 9",
+      "product_image": "https://i.ibb.co/8NV9HzR/P003.png",
+      "category": "Laptops",
+      "price": 999,
+      "description": "Versatile 2-in-1 tablet with a detachable keyboard and powerful performance.",
+      "specification": [
+        "13-inch PixelSense Flow display",
+        "Intel Core i7 processor",
+        "16GB RAM",
+        "512GB SSD storage",
+        "Quad Omnisonic speakers"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P014",
+      "product_title": "Fitbit Charge 5",
+      "product_image": "https://i.ibb.co/1sJMH9Z/P009.webp",
+      "category": "Accessories",
+      "price": 129,
+      "description": "Advanced fitness tracker with health and wellness features.",
+      "specification": [
+        "Heart rate monitor",
+        "Built-in GPS",
+        "Stress management tools",
+        "7-day battery life",
+        "Water-resistant to 50m"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "P015",
+      "product_title": "Lenovo ThinkPad X1 Carbon Gen 10",
+      "product_image": "https://i.ibb.co/6bC6Fb5/P0015.png",
+      "category": "Tablets",
+      "price": 1499,
+      "description": "High-performance laptop with a sleek design and advanced security.",
+      "specification": [
+        "14-inch FHD display",
+        "Intel Core i7 12th Gen",
+        "16GB RAM",
+        "512GB SSD storage",
+        "Lightweight carbon fiber build"
+      ],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]
+  
