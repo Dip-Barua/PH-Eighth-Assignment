@@ -3,13 +3,14 @@
 Welcome to **GadgetHaven**, an e-commerce platform designed for buying and managing gadgets, such as smart devices and accessories. The platform is designed to offer a seamless and intuitive experience for users to explore, manage their shopping cart, and wishlist items.
 
 ## Live Website Link
-[**Visit GadgetHaven**](https://gadgetheaven-ph8thassignment.netlify.app/)  
+[**Visit GadgetHaven**](https://gadgetheaven-ph8thassignment.netlify.app)  
 
 ## Requirement Document Link
 [**View the Requirement Document**](https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf)  
 
 
 ## Project Repository Link
+[**View the Project Public Repository**](https://github.com/Dip-Barua/PH-Eighth-Assignment)  
 [**View the Project Repository**](https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-Dip-Barua)  
 
 ---
